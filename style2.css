@@ -1,0 +1,33 @@
+.layout{
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; 
+}
+h3{
+    color: #bc2229;
+    font-size: 30px;
+    max-width: 200px;
+}
+p{
+    color: #231751;
+    max-width: 300px;
+    padding: 10px;
+    font-size: large;
+}
+table{
+    background-color:;#f2f1f5
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+tr{
+    background-color: white;
+}
+.layout:nth-child(1){
+    max-width: 300px;
+    width: 300px;
+    height: 180px;
+}

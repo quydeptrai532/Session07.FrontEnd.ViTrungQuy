@@ -1,0 +1,42 @@
+.blueb{
+    background-color: #d0e2ff;
+    border: 1px solid grey;
+    padding: 10px;
+    position: relative;
+}
+.container{
+  max-width: 800px;
+  font-size: x-large;
+  padding: 10px;
+}
+.incont{
+    border: 1px solid grey;
+    padding: 10px;
+    position: relative;
+}
+.incont:nth-child(1){
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.incont:nth-last-child(1){
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.black{
+    font-weight: bold;
+}
+.pink{
+    color: #d83e8b;
+}
+.arrup{
+   position: absolute;
+   display: inline-block;
+   transform: rotate(-90deg);
+   right: 20px;
+}
+.arrdown{
+    position: absolute;
+    display: inline-block;
+    transform: rotate(90deg);
+    right: 20px;
+}

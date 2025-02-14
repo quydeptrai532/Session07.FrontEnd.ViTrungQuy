@@ -1,0 +1,26 @@
+div{
+    max-width: 100vh;
+    margin-left: 20px;
+}
+img{
+    width: 100vh;
+    height: 60vh;
+}
+span{
+    color: orange;
+    
+}
+h1{
+    font-size: 40px;
+    margin-left: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    color: #4f536a;
+}
+p{
+    font-size: larger;
+    opacity: 0.8;
+}
